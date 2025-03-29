@@ -96,7 +96,7 @@ generator.export_scene_graph(graph, "scene_graph.json")
 The implementation includes a command-line interface for easy usage:
 
 ```bash
-python scene_graph_generator.py --model_path path/to/model_directory --image path/to/image.jpg
+python egtr_scene_graph_generator.py --model_path path/to/model_directory --image path/to/image.jpg
 ```
 
 #### Arguments
