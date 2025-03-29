@@ -99,6 +99,12 @@ The implementation includes a command-line interface for easy usage:
 python egtr_scene_graph_generator.py --model_path path/to/model_directory --image path/to/image.jpg
 ```
 
+A minimal implementation is included to illustrate the basic processing steps:
+
+```bash
+python egtr_minimal_scene_graph_generator.py --model_path path/to/model_directory --image path/to/image.jpg
+```
+
 #### Arguments
 
 - `--model_path`: Path to the directory containing the trained EGTR model (required)
