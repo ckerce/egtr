@@ -1,6 +1,6 @@
 # EGTR Inference Implementation
 
-This repository contains a Python implementation for running inference with the EGTR (Extracting Graph from Transformer) model for scene graph generation. EGTR is a lightweight one-stage scene graph generation model that leverages the multi-head self-attention layers of transformer decoders to extract relationship graphs.
+This repository contains a Python implementation for running inference with the EGTR (Extracting Graph from Transformer) model for scene graph generation (original implementation here https://github.com/naver-ai/egtr). EGTR is a lightweight one-stage scene graph generation model that leverages the multi-head self-attention layers of transformer decoders to extract relationship graphs.
 
 ## Overview
 
