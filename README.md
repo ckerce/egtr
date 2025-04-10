@@ -28,7 +28,7 @@ This implementation provides a simple, inference-only pipeline for generating sc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/egtr-inference.git
+git clone https://github.com/ckerce/egtr-inference.git
 cd egtr-inference
 
 # Create a virtual environment (optional but recommended)
