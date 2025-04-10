@@ -66,7 +66,7 @@ Download the desired model and extract it to a location of your choice.
 ### Basic Python API
 
 ```python
-from scene_graph_generator import SceneGraphGenerator
+from egtr_scene_graph_generator import SceneGraphGenerator
 
 # Initialize the generator with a pre-trained model
 generator = SceneGraphGenerator(
